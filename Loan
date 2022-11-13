@@ -1,0 +1,13 @@
+# loan_interest
+#include<stdio.h>
+#include<conio.h>
+void main(){
+    
+    float loan_amt,years,annual_interest_rate, principal_amt,balance_interest;
+    printf("\nEnter Loan Amount:\n");
+    printf("\nNumber of Years:\n");
+    printf("Annual Interest Rate:\n");
+    scanf(" .2f%", &Annual_Interest_Rate);
+
+    return 0;
+}
